@@ -1,4 +1,5 @@
-#Author : Heapbytes <Gourav> (https://github.com/heapbytes)
+# Original Author : Heapbytes <Gourav> (https://github.com/heapbytes)
+# I just added showing user@hostname and changed the network adapters
 
 PROMPT='
 ┌─[%(!.%{%F{yellow}%}.)$USER@%{$fg[white]%}%M] [%F{blue}  %~%f] [%F{green}  $(get_ip_address)%f] $(git_prompt_info)
