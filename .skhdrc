@@ -1,5 +1,5 @@
 # open terminal
-cmd - return : open -n -a "iTerm"
+cmd - return : open -n -a "alacritty"
 
 # open browser
 cmd + shift - return : open -n -a "Librewolf" 
